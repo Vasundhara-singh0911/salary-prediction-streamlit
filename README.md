@@ -33,6 +33,23 @@ Your input data is **not stored**.
 - Streamlit
 
 ---
+---
+
+## 📓 Model Training Notebook
+
+You can see the **full model training process** in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/drive/1Nk6qB167kYviq9WLv3SBYJzOaIl6dsfi)
+
+This notebook shows:
+- Data preprocessing
+- Model training with XGBoost
+- Pipeline creation
+- Saving the model for deployment
+
+----
+
 ⚠️ Disclaimer  
 This tool is for educational demonstration only.  
 It does not store, share, or use your data in any way.  
