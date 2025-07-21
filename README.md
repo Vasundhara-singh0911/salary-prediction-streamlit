@@ -7,7 +7,7 @@ Built as a **machine learning project** for demonstration and educational use.
 ---
 
 ## 🚀 Live Website
-**👉 [Open the App Here](https://salary-prediction-app-7kkqdzynpzipkyelkbin34.streamlit.app/)**
+**👉 [Open the Website Here](https://salary-prediction-app-7kkqdzynpzipkyelkbin34.streamlit.app/)**
 
 ✅ This is a safe, open-source tool — **no login, no payments, no credentials**.  
 Your input data is **not stored**.
